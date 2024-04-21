@@ -1,0 +1,19 @@
+{
+  "name": "second-hw",
+  "version": "1.0.0",
+  "description": "My second node project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yarzot/Second-hw.git"
+  },
+  "author": "Yarzot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yarzot/Second-hw/issues"
+  },
+  "homepage": "https://github.com/yarzot/Second-hw#readme"
+}
